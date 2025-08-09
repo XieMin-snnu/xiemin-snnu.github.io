@@ -64,8 +64,6 @@ My research interest includes Cryptography, zero-knowledge proofs, anonymous cre
 
 - RPSC: Regulatable privacy-preserving smart contracts on account-based blockchain. Zoe L Jiang, **Min Xie**, Hanlin Chen, Yijian Pan, Jiazhuo Lyu, Man Ho Au, Junbin Fang, Yang Liu, Xuan Wang. <i>IEEE Transactions on Network Science and Engineering (TNSE)</i>, 2024.
 
-- RPSC: Regulatable privacy-preserving smart contracts on account-based blockchain. Zoe L Jiang, **Min Xie**, Hanlin Chen, Yijian Pan, Jiazhuo Lyu, Man Ho Au, Junbin Fang, Yang Liu, Xuan Wang. <i>IEEE Transactions on Network Science and Engineering (TNSE)</i>, 2024.
-
 - Intelligent and fair iov charging service based on blockchain with cross-area consensus. Dawei Li, Ruonan Chen, Qinjun Wan, Zhenyu Guan, Shizhong Li, **Min Xie**, Jieyu Su, Jianwei Liu. <i>IEEE Transactions on Intelligent Transportation Systems (TITS)</i>, 2023.
 
 - Accountable outsourcing data storage atop blockchain. **Min Xie**, Yong Yu, Ruonan Chen, Huilin Li, Jianguo Wei, Qilong Sun. <i>Computer Standards & Interfaces (CSI)</i>, 2022.
