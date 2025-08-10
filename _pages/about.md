@@ -23,7 +23,7 @@ My research interest includes Cryptography, zero-knowledge proofs, anonymous cre
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 A paper is accepted by IEEE TIFS. A paper is accepted by CSI. 
-- *2022.04*: &nbsp;🎉🎉 A paper is accepted by ACM CCS.
+- *2025.05*: &nbsp;🎉🎉 A paper is accepted by ACM CCS.
 
 # 📖 Educations
 - *2022.09 - now*, Ph.D. Candidate, School of Computer Science and Technology, Harbin Institute of Technology, Shenzhen.
