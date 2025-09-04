@@ -22,6 +22,7 @@ I am currently pursuing a PhD degree at the Computer Application Research Center
 My research interest includes Cryptography, zero-knowledge proofs, anonymous credentials, digital signatures, and cloud storage security. 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 A paper is accepted by ACSAC. 
 - *2025.06*: &nbsp;🎉🎉 A paper is accepted by IEEE TIFS. A paper is accepted by CSI. 
 - *2025.05*: &nbsp;🎉🎉 A paper is accepted by ACM CCS.
 
@@ -43,6 +44,8 @@ My research interest includes Cryptography, zero-knowledge proofs, anonymous cre
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+- Anonymous Authentication and Key Agreement, Revisited. Yanqi Zhao, Xiangyu Liu*, **Min Xie**, Xiaoyi Yang, Jianting Ning, Baodong Qin, Haibin Zhang, Yong Yu. <i>Annual Computer Security Applications Conference (ACSAC)</i>, 2025.
 
 - FDAAC-CR: Practical Delegatable Attribute-Based Anonymous Credentials with Fine-grained Delegation Management and Chainable Revocation. **Min Xie**, Peichen Ju, Yanqi Zhao, Zoe L. Jiang, Man Ho Au, Junbin Fang, Yong Yu, Xuan Wang. <i>IEEE Transactions on Information Forensics and Security (TIFS)</i>, 2025.
 
